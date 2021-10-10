@@ -58,7 +58,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
   - ```python
     npm install
     ```
-- Now, the project is ready to use.
+- Now, the project is ready.
 - You can check it using `npm start`, it will open the website locally on your browser.
 
 # Customize it to make your own portfolio ✏️
